@@ -1,6 +1,6 @@
 ###### 1- Create Database.
 ###### 2- Run 
 ```php
-php artisan serve
+php artisan reset
 ```
 ###### 3- Enjoy :)
